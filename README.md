@@ -1,5 +1,3 @@
-# IOT_mini_project
-
 # Home Automation System using Arduino
 
 # Introduction:
