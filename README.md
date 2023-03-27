@@ -1,6 +1,6 @@
 # IOT_mini_project
 
-Home Automation System using Arduino
+# Home Automation System using Arduino
 
 Introduction:
 This project involves the use of an Arduino board to create an automated system that can control various home appliances. The system is designed to be easily accessible and manageable by users. It includes several features such as light control, fan control, gas sensor, PIR sensor, LDR sensor, and a servo motor to control the door.
