@@ -2,11 +2,12 @@
 
 # Home Automation System using Arduino
 
-Introduction:
+#Introduction:
 
 This project involves the use of an Arduino board to create an automated system that can control various home appliances. The system is designed to be easily accessible and manageable by users. It includes several features such as light control, fan control, gas sensor, PIR sensor, LDR sensor, and a servo motor to control the door.
 
 Hardware Requirements:
+
 • Arduino Uno board
 
 • Ultrasonic sensor
@@ -27,10 +28,11 @@ Hardware Requirements:
 
 • NPN transistor
 
-Software Requirements:
+#Software Requirements:
+
 • Arduino IDE
 
-Installation:
+#Installation:
 
 Connect all the hardware components as per the circuit diagram.
 Open the Arduino IDE and upload the code to the Arduino board.
