@@ -7,6 +7,7 @@ This project involves the use of an Arduino board to create an automated system 
 
 Hardware Requirements:
 • Arduino Uno board
+
 • Ultrasonic sensor
 • Servo motor
 • PIR sensor
